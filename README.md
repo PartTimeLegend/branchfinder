@@ -16,11 +16,11 @@ The package available here may work, it may not. I recommend you use the officia
 ### Package Manager
 
 ```powershell
-Install-Package branchfinder
+Install-Package BranchFinder
 ```
 
 ### .NET CLI
 
 ```powershell
-dotnet add package branchfinder
+dotnet add package BranchFinder
 ```
